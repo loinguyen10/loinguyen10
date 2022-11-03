@@ -1,5 +1,5 @@
 #### Hi there 👋
-## L. John Nguyễn here! 🇻🇳
+## L. John Nguyễn here! 🟥⭐ 🇻🇳 
 ###  just call LJ.
 
 - 🔭 A college student in FPT Polytechnic. (8/2021 - still)
