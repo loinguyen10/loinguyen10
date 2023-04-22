@@ -6,4 +6,4 @@
 - 🌱 Learning Java,C,HTML,CSS, and will more.
 - 👯 Collaborating with some friends to make a real project.
 - 📫 How to reach me:
-+ Well, email me: Casinnas Stark - casinnasstark@gmail.com (a mail I used to work)
++ Well, email me: Loi Nguyen - ljohnnguyen.2711@gmail.com (a mail I used to work)
