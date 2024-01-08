@@ -3,7 +3,7 @@
 ###  just call LJ.
 
 - 💴 Mobile Developer - One Half of Intern and One Half of Fresher. (Est. 2023)
-- 🔭 A college student in FPT Polytechnic. (8/2021 - still)
+- 🔭 A college student in FPT Polytechnic. (9/2021 - 1/2021)
 - 🌱 Learning Java,Flutter,React and will more.
 - 👯 Collaborating with some friends to make some project.
 - 📫 How to reach me:
