@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &emsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &emsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &emsp; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 
 ### Project I done or doing
-[Jobshunt v2.0 - Job Search & Recruitment(Android & IOS)](https://github.com/loinguyen10/JobHuntFLT/) $${\color{green}DONE}$$ <hr>
-[Jobshunt v1.0 - Job Search & Recruitment(Android)](https://github.com/tungdv1503/JobHuntHTH/) $${\color{red}ABANDON}$$ <hr>
-[HOMEBOOK - Booking App](https://github.com/Gradi0us/DuAn1_HOMEBOOK/) $${\color{green}DONE}$$ <hr>
+[Jobshunt v2.0 - Job Search & Recruitment(Android & IOS)](https://github.com/loinguyen10/JobHuntFLT/) ${\color{green}DONE}$ <hr>
+[Jobshunt v1.0 - Job Search & Recruitment(Android)](https://github.com/tungdv1503/JobHuntHTH/) ${\color{red}ABANDON}$ <hr>
+[HOMEBOOK - Booking App](https://github.com/Gradi0us/DuAn1_HOMEBOOK/) ${\color{green}DONE}$ <hr>
 
 ###
 <div align="center">
