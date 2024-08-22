@@ -1,8 +1,9 @@
 #### Hi there 👋
 ## _L. John Nguyễn_ here! ☝️
 ###  just call LJ.
-- 💴 Mobile Developer - One Half of Intern and One Half of Fresher. (Est. 2023)
-- 🔭 A college student in FPT Polytechnic. (9/2021 - 1/2021)
+- 💴 Mobile Developer - One-Year Fresher (Est. 2023) and on the road to be Junior Developer.
+- 🔭 A college student in FPT Polytechnic. (9/2021 - 1/2024)
+- 🏢 Worked for few companies. (6/2023 - present)
 - 👯 Collaborating with some friends to make some project.
 - ⚡ Languages:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &emsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &emsp; <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &emsp; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
